@@ -1,0 +1,2 @@
+defmodule Edu do
+end
