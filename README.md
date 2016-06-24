@@ -1,6 +1,6 @@
 # Edu
 
-**TODO: Add description**
+This is a small repository for learning Elixir; a kind of scratch pad. 
 
 ## Installation
 
